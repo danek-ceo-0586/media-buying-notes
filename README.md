@@ -1,2 +1,25 @@
-# media-buying-notes
-Personal knowledge base &amp; insights on mVAS, tracking, and traffic optimization.
+# 📊 Media Buying Notes & Knowledge Base
+
+Структурированная база знаний, технические заметки и регламенты по работе с мобильным трафиком (mVAS / Popunder / Clickunder), трекингом и оптимизацией данных.
+
+---
+
+## 📁 Содержание репозитория:
+
+1. **[Глоссарий терминов (glossary.md)](glossary.md)**  
+   Базовые определения вертикали mVAS, моделей оплаты (CPA, RevShare, Rebill), форматов рекламы и метрик.
+
+2. **[Формулы и метрики (metrics.md)](metrics.md)**  
+   Математический аппарат медиабаинга: расчет CTR, CPM, CPC, CR, CPA, прибыли и ROI на условных примерах.
+
+3. **[Заметки по трекингу (tracking-notes.md)](tracking-notes.md)**  
+   Принципы связки кликов и конверсий: работа с Click ID, настройка Postback, сверка расхождений между трекером и сетками.
+
+4. **[Чек-лист запуска кампаний (platform-checklist.md)](platform-checklist.md)**  
+   Пошаговый контроль перед включением трафика: проверка оффера, макросов трекера, таргетингов и финансовых лимитов.
+
+5. **[Правила оптимизации (optimization-rules.md)](optimization-rules.md)**  
+   Методология блэклистинга площадок по стоимости выплаты, критерии сбора вайтлистов и финансовый риск-менеджмент.
+
+---
+*Maintained by [danek-ceo-0586](https://github.com/danek-ceo-0586)*
