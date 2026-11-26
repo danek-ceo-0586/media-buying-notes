@@ -24,6 +24,9 @@
  6. **[Калькулятор метрик и ROI (scripts/roi_calculator.py)](scripts/roi_calculator.py)**  
    Python-скрипт для расчета базовой юнит-экономики связки: CTR, CR, CPA, прибыли и ROI с автоматическим вердиктом.
 
+7. **[Очиститель списков зон (scripts/list_cleaner.py)](scripts/list_cleaner.py)**  
+   Python-утилита для дедупликации, фильтрации и форматирования списков Zone/Spot ID под требования рекламных сетей.
+
 
 ---
 *Maintained by [danek-ceo-0586](https://github.com/danek-ceo-0586)*
