@@ -21,5 +21,9 @@
 5. **[Правила оптимизации (optimization-rules.md)](optimization-rules.md)**  
    Методология блэклистинга площадок по стоимости выплаты, критерии сбора вайтлистов и финансовый риск-менеджмент.
 
+ 6. **[Калькулятор метрик и ROI (scripts/roi_calculator.py)](scripts/roi_calculator.py)**  
+   Python-скрипт для расчета базовой юнит-экономики связки: CTR, CR, CPA, прибыли и ROI с автоматическим вердиктом.
+
+
 ---
 *Maintained by [danek-ceo-0586](https://github.com/danek-ceo-0586)*
